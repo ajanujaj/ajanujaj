@@ -33,12 +33,12 @@ I care about the full lifecycle: understanding the data, choosing the right mode
 
 | Project | Area | Description |
 |---|---|---|
+| [**Neuro-Computational Model**](https://github.com/ajanujaj/Neuro-Computational_Model) | Computational neuroscience | Models neural behaviour computationally |
+| [**Law-LLM**](https://github.com/ajanujaj/Law-LLM) | NLP · Retrieval | Question answering over Indian legal documents |
+| [**Loan Prediction with Flask**](https://github.com/ajanujaj/Loan-Prediction-with-Flask) | Classical ML · Deployment | Predicts loan approval and serves the model through a Flask web app |
 | [**Flickr Image Captioning**](https://github.com/ajanujaj/FlickerImageCaption) | Deep learning · CV + NLP | Generates natural-language captions for images |
 | [**Fashion Image Classification**](https://github.com/ajanujaj/ImgClassification_FashionDataset) | Deep learning · CV | Classifies clothing images with a neural network |
-| [**Loan Prediction with Flask**](https://github.com/ajanujaj/Loan-Prediction-with-Flask) | Classical ML · Deployment | Predicts loan approval and serves the model through a Flask web app |
-| [**Neuro-Computational Model**](https://github.com/ajanujaj/Neuro-Computational_Model) | Computational neuroscience | Models neural behaviour computationally |
-| **Brain Tumour Detection in MRI** | Deep learning · Medical imaging | Hybrid CNN + GCN model for tumour classification (MSc project) |
-| [**Law-LLM**](https://github.com/ajanujaj/Law-LLM) | NLP · Retrieval | Question answering over Indian legal documents |
+
 
 ### 🌱 Currently
 
