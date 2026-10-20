@@ -33,7 +33,7 @@ I care about the full lifecycle: understanding the data, choosing the right mode
 
 | Project | Area | Description |
 |---|---|---|
-| [**swiggy-cravr**]((https://github.com/ajanujaj/swiggy-cravr) | Agent . MCP . NLP  | recommenedation Agent |
+| [**swiggy-cravr**](https://github.com/ajanujaj/swiggy-cravr) | Agent . MCP . NLP  | recommenedation Agent |
 | [**Neuro-Computational Model**](https://github.com/ajanujaj/Neuro-Computational_Model) | Computational neuroscience | Models neural behaviour computationally |
 | [**Law-LLM**](https://github.com/ajanujaj/Law-LLM) | NLP · Retrieval | Question answering over Indian legal documents |
 | [**Loan Prediction with Flask**](https://github.com/ajanujaj/Loan-Prediction-with-Flask) | Classical ML · Deployment | Predicts loan approval and serves the model through a Flask web app |
